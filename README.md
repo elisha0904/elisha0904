@@ -8,14 +8,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> As for me...
 
-I'm **Hyunjo Kim**, an undergraduate student at Kookmin University, currently studying with the goal of becoming an AI engineer and researcher.
+I'm **Hyunjo Kim**, an undergraduate student at Kookmin University, currently studying with the goal of becoming an AI engineer.
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> I'm interested in...
 - (widely) Machine Learning & Deep Learning
-- **Experssive Speech Synthesis & Recognition**
-- **Sequential / Conversational Recommender System**
-- Multi-modal (image captioning, text-to-pose, ...)
+- **VLM** (image captioning, text-to-pose, ...)
+- **Emotional TTS**
+- Recommendation System
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="40" height="40" /> my tech stack is...
