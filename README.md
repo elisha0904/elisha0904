@@ -14,7 +14,6 @@ I'm **Hyunjo Kim**, an undergraduate student at Kookmin University, currently st
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> I'm interested in...
 - (widely) Machine Learning & Deep Learning
 - **VLM** (image captioning, text-to-pose, ...)
-- **Emotional TTS**
 - Recommendation System
 
 
