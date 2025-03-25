@@ -38,7 +38,7 @@ I'm **Hyunjo Kim**, an undergraduate student at Kookmin University, currently st
 - `2021.03 ~` B.S. in Dept. of AI & Bigdata Management, Kookmin Univ   
 - `2021.12 ~ 2022.03` Data Analyst Internship @ [**OddConcept**](https://oddconcepts.kr/ko/)
 - `2023.01 ~ 2023.12` Kookmin Univ. AI & Big Data Analysis Society [**D&A**](https://cms.kookmin.ac.kr/dna/index.do) officer
-- `2025.03 ~ 2025.06` AI Engineer Internship @ [**MindsNCompany**](https://mnc.ai/)
+- `2025.03 ~ 2025.06` AI Engineer Internship @ [**MINDS AND COMPANY**](https://mnc.ai/)
 
 <br/>
 <div align="center"> For more info about me, please refer to <a href="https://imymeunz.notion.site/Hyunjo-Kim-93d876622d534c0082c527309bc6be17?pvs=4">link</a>! </div>
