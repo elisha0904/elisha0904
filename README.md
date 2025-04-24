@@ -1,6 +1,5 @@
 <div align = "center">
   
-  <a href="https://www.instagram.com/meun.zzz/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://imymeunz.notion.site/Hyunjo-Kim-93d876622d534c0082c527309bc6be17?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="https://meunz.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="mailto:elisha0904@kookmin.ac.kr"><img src="https://img.shields.io/badge/Contact_me!-FFFFFF?style=flat&logo=Gmail&logoColor=black"/></a><br/>
