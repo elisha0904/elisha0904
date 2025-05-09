@@ -6,7 +6,8 @@
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> AI & ML Interest
-- **VLM**
+- **VLM, LLM**
+- TTS, STT
 - Recommendation System
 
 
