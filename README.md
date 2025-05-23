@@ -2,7 +2,7 @@
   
   <a href="https://imymeunz.notion.site/Hyunjo-Kim-93d876622d534c0082c527309bc6be17?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="https://meunz.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:elisha0904@kookmin.ac.kr"><img src="https://img.shields.io/badge/Contact_me!-FFFFFF?style=flat&logo=Gmail&logoColor=black"/></a><br/>
+  <a href="mailto:imymeunz@gmail.com"><img src="https://img.shields.io/badge/Contact_me!-FFFFFF?style=flat&logo=Gmail&logoColor=black"/></a><br/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> AI & ML Interest
