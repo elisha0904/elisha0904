@@ -5,7 +5,7 @@
   <a href="mailto:imymeunz@gmail.com"><img src="https://img.shields.io/badge/Contact_me!-FFFFFF?style=flat&logo=Gmail&logoColor=black"/></a><br/>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> AI & ML Interest
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> Research Interest
 - **VLM, LLM**
 - TTS, STT
 - Recommendation System
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/>
 </p>
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="40" height="40" /> I have experience in...
 - `2021.03 ~` B.S. in Dept. of AI & Bigdata Management, Kookmin Univ   
