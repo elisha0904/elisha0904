@@ -6,8 +6,7 @@
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> Research Interest
-- **VLM, LLM**
-- TTS, STT
+- **LLM, Agentic RAG, Long-term memory for Agent Service**
 - Recommendation System
 
 
@@ -33,6 +32,7 @@
 - `2021.12 ~ 2022.03` Data Analyst Internship @ [**OddConcept**](https://oddconcepts.kr/ko/)
 - `2023.01 ~ 2023.12` Kookmin Univ. AI & Big Data Analysis Society [**D&A**](https://cms.kookmin.ac.kr/dna/index.do) officer
 - `2025.03 ~ 2025.06` AI Engineer Internship @ [**GenON**](https://genon.ai/)
+- `2025.08 ~ present` Agent Developer Internship @ [**WRTN**](https://wrtn.io)
 
 <br/>
 <div align="center"> For more info about me, please refer to <a href="https://imymeunz.notion.site/Hyunjo-Kim-93d876622d534c0082c527309bc6be17?pvs=4">link</a>! </div>
